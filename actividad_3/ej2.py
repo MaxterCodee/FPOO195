@@ -15,4 +15,4 @@ print(nombre.lower(), apellido.lower())
 print(nombre.upper(), apellido.upper())
 
 # Mostrar el nombre completo con la primera letra de cada palabra en mayúsculas
-print(nombre.title(), apellido.upper())
+print(nombre.title(), apellido.upper()) 
